@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 75e92ddfa78794de3b0b0df268cb2100
+labels:
+- ANN
+- Artificial
+- Neural
+- Network
+- FeedForward
+- Controller
+timeCreated: 1444125767
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
